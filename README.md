@@ -25,3 +25,5 @@ I didnt seek for an extremely complex logic in this project but to improve my co
 - **FormInfo** → It just takes the info from our second useContext state and prints it.
 
 > Working on Input Radio, checkbox & select to be implemented.
+
+> Status: not finished yet. WIP.
